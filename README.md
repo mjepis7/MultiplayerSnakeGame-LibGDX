@@ -37,7 +37,7 @@ Este projeto desenvolve uma versão clássico Snake Game desenvolvido usando a b
 1. **Clonar o Repositório**
 
    ```bash
-   git clone <URL do repositório>
+   git clone https://github.com/mjepis7/MultiplayerSnakeGame-LibGDX.git
    cd <nome do diretório>
    ```
 
